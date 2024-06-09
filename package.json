@@ -1,0 +1,25 @@
+{
+  "name": "y",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/trottiemcqueen/Weather-variable-API.git"
+  },
+  "keywords": [
+    "api"
+  ],
+  "author": "Trottie McQueen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/trottiemcqueen/Weather-variable-API/issues"
+  },
+  "homepage": "https://github.com/trottiemcqueen/Weather-variable-API#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.12"
+  }
+}
