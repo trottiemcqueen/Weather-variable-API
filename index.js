@@ -44,6 +44,8 @@ const newsp = [
 ]
 const articles = []
 
+
+
 newsp.forEach(newspaper => {
     axios.get(newspaper.address)
         .then(response => {
